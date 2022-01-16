@@ -1,2 +1,2 @@
 # trash-racing-game
-This is a racing game I made from highschool
+I made this game while in high school in my spare time.
